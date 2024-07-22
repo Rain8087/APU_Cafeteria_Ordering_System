@@ -1,0 +1,7 @@
+manager,123,Manager,C,1235
+jimmi@email.com,aaaa,Customer,Male,1998/12/31,Jimmi,1234,aaaa
+james@email.com,1234,Customer,Male,2002/10/20,James,1231412,sffwef
+flea@email.com,1234,Customer,Female,2001/03/21,Flea,012345678,aaaa
+aaaa,aaaa,Customer,Male,2001/01/01,aaaa,1235,aaaa
+asdw,adwad12,Customer,Male,2002/01/10,Tan,1234,asdwa
+aw123,aaa1234,Customer,Male,2002/01/04,Choo,12345,aaaa

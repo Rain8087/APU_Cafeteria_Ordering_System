@@ -1,0 +1,4 @@
+ID,Dish Name,Type,Price (RM)
+1,Fries,Food,5.00,
+2,Water,Beverage,5.00,
+3,Orange Jus,Beverage,15.50,
